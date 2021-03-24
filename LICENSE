@@ -1,13 +1,21 @@
-# Pisces Development Agreement
-### This agreement is made by Pisces Development organizationaion, and the content producer open the authorization to the user according to this agreement, and the user shall abide by the matters specified by the producer in the whole process of using. Pisces Development Organization reserves all rights under this agreement.
-### We set these jurisdiction for users.
-#### SC Search the work.
-#### CP Download or copy the work.
-#### UN Use the work for noncommercial.
-#### UC Use the work for commercial.
-#### SL Sell the copy of the work.
-#### MD Modify the copy of the work.
-#### RS Reissue the copy or the modified copy of the work.
+MIT License
 
-### The producer choosed:
-## SC,CP,UN,UC,MD,RS
+Copyright (c) 2020 Bigsk
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
