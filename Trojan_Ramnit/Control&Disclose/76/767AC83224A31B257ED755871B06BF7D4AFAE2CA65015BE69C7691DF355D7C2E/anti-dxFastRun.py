@@ -1,4 +1,5 @@
-import os,psutil,time,hashlib,win32con,win32api
+import os, time, hashlib
+import psutil, win32con, win32api
 
 def search_files(path,tagfile):
     number=0
